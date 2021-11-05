@@ -1,2 +1,2 @@
 # TaxManipulation
-Tool for manipulate service taxnomy and search possible reusable services
+Tool for manipulate service taxonomy and search possible reusable services
